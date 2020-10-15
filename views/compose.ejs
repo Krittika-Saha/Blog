@@ -1,5 +1,7 @@
 <%- include('partials/header') -%>
     <h1>Compose</h1>
-    <input type="text" name="" value="" id='blog'>
-    <button type="submit" name="btn1" class='btn btn-small btn-info'><label for="blog">Publish</label></button>
+    <form class="" action="/compose" method="post">
+      <input type="text" name="blog" value=" " id='blog1' autocomplete="off">
+      <button type="submit" name="btn1" class='btn btn-small btn-info'><label for="blog1">Publish</label></button>
+    </form>
 <%- include('partials/footer') -%>

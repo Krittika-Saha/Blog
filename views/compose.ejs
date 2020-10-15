@@ -2,9 +2,9 @@
     <h1>Compose</h1>
     <form class="form-group" action="/compose" method="post">
       <p><b>Title</b></p>
-      <input type="text" name="postTitle" value="" class='form-control'>
+      <input type="text" name="postTitle" value="" class='form-control' autocomplete="off">
       <p><b>Post</b></p>
-      <textarea name="postBody" rows="6" cols="80" class='form-control'></textarea> <br>
+      <textarea name="postBody" rows="6" cols="80" class='form-control' autocomplete="off"></textarea> <br>
       <button type="submit" name="btn1" class='btn btn-small btn-primary'>Publish</button>
     </form>
 <%- include('partials/footer') -%>

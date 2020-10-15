@@ -5,7 +5,9 @@
     <% Posts.forEach(function(post){ %>
         <h1><%=(post['title'])%></h1>
         <p><%=(post['body'])%></p>
-  <%  });%>
-
+        <% if (post['title'] === postParam) { %>
+          <% console.log('Match found!') %>
+        <% }; %>
+  <%});%>
 
 <%- include('partials/footer') -%>

@@ -1,3 +1,5 @@
 Challenge 1: Silver Star;
 Challenge 2: Gold Star;
 Challenge 3: Gold Star;
+Challenge 4: Gold Star;
+Challenge 5: Gold Star;

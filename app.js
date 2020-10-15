@@ -30,7 +30,9 @@ app.get('/about', function(req, res) {
     aboutContent: aboutContent,
   });
 });
-
+app.get('/compose', function(req, res) {
+  res.render('compose');
+});
 
 
 

@@ -3,3 +3,4 @@ Challenge 2: Gold Star;
 Challenge 3: Gold Star;
 Challenge 4: Gold Star;
 Challenge 5: Gold Star;
+Challenge 6: Gold Star;

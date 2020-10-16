@@ -1,5 +1,13 @@
 My Progress through out the Challenge:
 
+                  Key
+
+0 hints taken: Gold Star
+1 hints taken: Silver Star
+2 hints taken: Bronze Star
+Answer seen: No Star
+
+
 Challenge 1: Silver Star;
 Challenge 2: Gold Star;
 Challenge 3: Gold Star;
@@ -18,4 +26,5 @@ Challenge 14: Gold Star;
 Challenge 15: Gold Star;
 Challenge 16: Gold Star;
 Challenge 17: No stars (😥);
-Challenge 18: Gold Star; (Why? Couldn't solve cus I wasn't using camel casing in _.lowerCase. Got an error, saw angela's answer, still couldn't find out. Then solved it myself after seeing the comments.)
+Challenge 18: Gold Star; (Why? Couldn't solve cus I wasn't using camel casing in _.lowerCase. Got an error, saw Angela's answer, still couldn't find out. Then solved it myself after seeing the comments.)
+Challenge 19 : No stars (😥); (I didn't have the concept clear on the 'post' parameter in 'forEach' function :c);

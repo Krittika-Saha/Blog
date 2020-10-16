@@ -2,13 +2,18 @@
     <h1>Home</h1>
     <p> <%= homeStartingContent %> </p>
 
+    <% function ellipsify (str) { %>
+      <% if (str.length > 10) { %>
+          <% return (str.substring(0, 100) + "...") %>
+      <% } else { %>
+        <% return str; %>
+        <% } %>
+    <% }; %>
+
     <% Posts.forEach(function(post){ %>
-        <h1><%=(post['title'])%></h1>
-        <p><%=(post['body'])%></p>
+        <h1><%= post['title'] %></h1>
+        <p><%=ellipsify(post['body'])%><a href="/posts/<%=post.title%>">Read More</a></p>
+
   <%});%>
-
-
-
-
 
 <%- include('partials/footer') -%>

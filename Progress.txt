@@ -28,3 +28,5 @@ Challenge 16: Gold Star;
 Challenge 17: No stars (😥);
 Challenge 18: Gold Star; (Why? Couldn't solve cus I wasn't using camel casing in _.lowerCase. Got an error, saw Angela's answer, still couldn't find out. Then solved it myself after seeing the comments.)
 Challenge 19 : No stars (😥); (I didn't have the concept clear on the 'post' parameter in 'forEach' function :c);
+Challenge 20: Gold Star;
+Challenge 20(Final Challenge): 1/2 Silver(😥 pls?) (couldn't understand the url, not really but like I put the variable name which stored the title of the post and that caused an error, idk why);
